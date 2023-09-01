@@ -22,7 +22,7 @@ source .venv/bin/activate
 ```
 2. install dependencies by typing the following in your terminal once inside venv:
 ```bash
-pip -r requirement.txt
+pip -r requirements.txt
 ```
 
 ## Usage
