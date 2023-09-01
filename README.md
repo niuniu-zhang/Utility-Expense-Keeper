@@ -1,4 +1,4 @@
-# Utility Calculator
+# Utility Expenses Keeper
 Monthly utility bookkeeping tool written in Python (Cli + GUI version)
 
 ## Dependencies
