@@ -1,5 +1,16 @@
 # Utility Expenses Keeper
-Monthly utility bookkeeping tool written in Python (Cli + GUI version)
+Monthly utility bookkeeping tool written in Python (Cli + GUI version). 
+By default, this tool records the following entries as row in a csv file:
+* Date
+* Rent
+* Parking
+* Electricity
+* Water
+* Gas
+* Internet
+* Total
+
+Each month's expenses will be appended and updated to the same csv file if you run the script again.
 
 ## Dependencies
 0. `cd` into the directory
