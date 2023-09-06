@@ -40,7 +40,7 @@ python bill_gen_cli.py
 0. Python [Tkinter](https://docs.python.org/3/library/tkinter.html) packages is required. On Windows, it is included when you installed Python. Here's how to install on [MacOs](https://www.geeksforgeeks.org/how-to-install-tkinter-on-macos/) and [Linux/Deb-based-distro](https://www.pythonguis.com/installation/install-tkinter-linux/).
 1. run [bill_gen_gui.py](bill_gen_gui.py) by
 ```bash
-python bill_gen_cli.py
+python bill_gen_gui.py
 ```
 2. input your expenses on the GUI
 3. Once finished, your total expense will be calculated and expense will be saved as csv to local directory.
